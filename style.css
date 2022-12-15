@@ -1,4 +1,4 @@
-*{
+:root{
     background-color: yellowgreen;
     font-family: Arial, Helvetica, sans-serif; 
 }
@@ -9,14 +9,33 @@ header {
 
 h3 {
     background-color: blue;
-    color:rgb(3, 0, 44);
+    color:white;
+}
+
+p {
+    color: white;
+}
+
+p a {
+    color: yellow;
+    text-decoration: none;
+}
+
+p a:after {
+    color: red;
+    text-decoration: none;
+}
+
+p a:hover:after {
+    color: green;
+    text-decoration: none;
 }
 
 section {
     background-color: blue;
-    color:rgb(3, 0, 44);
+    color:white;
 }
 
 body {
-    color: white;
+    color: black;
 }
