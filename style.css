@@ -1,0 +1,17 @@
+*{
+    background-color: yellowgreen;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+header {
+    color: red;
+}
+
+section {
+    background-color: blue;
+    color:rgb(3, 0, 44);
+}
+
+body {
+    color: white;
+}
